@@ -17,7 +17,7 @@ export default function Footer () {
         <View style={styles.botIconBox}>
             <Image style={styles.icons}
             source={require("../../assets/Icons/messages_light.png")}/>
-            <Text style={styles.botText}>aDMs</Text>
+            <Text style={styles.botText}>DMs</Text>
         </View>
         </View>
     )
